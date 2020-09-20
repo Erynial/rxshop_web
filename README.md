@@ -1,2 +1,2 @@
-# rxshop_web
+# RxShop
 Website for RxShop
